@@ -1,1 +1,19 @@
+# Joke Teller
+# More corny jokes by Alexia Umanzor
+#Sept 30, 2017
+
+#All jokes were stolen from reallycorny.com
+
+print("What do you call a singing laptop?")
+input()
+print("A Dell")
+print("Get it?? Like the singer??")
+print()
+#Another joke
+print("Wanna hear another corny joke?")
+input()
+print("Why did Santa major in music?")
+input()
+print("So he could improve his wrapping skills!")
+
 
